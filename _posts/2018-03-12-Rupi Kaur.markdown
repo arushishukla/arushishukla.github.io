@@ -8,3 +8,30 @@ Rupi Kaur is an instagram poet of Punjabi descent. Born in India and bought up i
 
 
 Going for the event was an exciting experience. The room was filled with all types of people. It was not just women but there were a lot of men. There was just one spotlight which focused on her and the stage was plain but the area where she was standing was decorate with flowers in a perfect circle. The room fell dead silent when she entered wearing her shear silver gown. People snapped their fingers whenever they found something interesting and they clapped after her every reading. She performed four of her poems and whenever she did it felt like you were transcended into another world.
+
+![img_2456](https://user-images.githubusercontent.com/36836431/37271465-07546c0c-25f9-11e8-8ff2-fcafa4d6ce07.JPG)
+
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://arushishukla-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//arushishukla-github-io.disqus.com/count.js" async></script>
