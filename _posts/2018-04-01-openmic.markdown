@@ -1,0 +1,68 @@
+---
+layout: post
+title:  "Open Mic Event"
+date:   2018-04-01 10:51:04 +0530
+categories: jekyll update
+---
+
+Attending an open mic event was an amazing experience. the atmosphere of the place and the people were so different than I ever experienced. The event took place in Malabar hills in the evening. When I got there, people had already started performing their poetry. A few of them even played their own music. The one unique thing about an open mic event is the audience. The audience in this event instead of clapping, snapped their fingers whenever they felt that somebody had a good poetry. The audience were very encouraging and most of them were the people who performed. A lot of people who performed were very dramatic in their approach. It was fun even being a spectator in the event.
+
+
+![pho_ass2_a020_01](https://user-images.githubusercontent.com/36836431/38169542-48498f8a-358a-11e8-8ae7-d7d0a693a1ce.jpg)
+
+![pho_ass2_a020_02](https://user-images.githubusercontent.com/36836431/37876448-1d926dc2-306a-11e8-8855-4e92672f1438.jpg)
+
+![pho_ass2_a020_03](https://user-images.githubusercontent.com/36836431/38169545-60ffb392-358a-11e8-9010-6c873d735e74.jpg)
+
+![pho_ass2_a020_04](https://user-images.githubusercontent.com/36836431/38169547-7328c3ce-358a-11e8-9913-5ab150153880.jpg)
+
+![pho_ass2_a020_05](https://user-images.githubusercontent.com/36836431/38169548-8a8bedfc-358a-11e8-9c7f-067cb366fb40.jpg)
+
+![pho_ass2_a020_06](https://user-images.githubusercontent.com/36836431/38169555-a7e0df34-358a-11e8-967f-3e97d4e1aa72.jpg)
+
+![pho_ass2_a020_07](https://user-images.githubusercontent.com/36836431/38169559-bc711a90-358a-11e8-826d-906d3f2c8a7b.jpg)
+
+![pho_ass2_a020_08](https://user-images.githubusercontent.com/36836431/38169562-d0812f48-358a-11e8-8be0-046fd99a854d.jpg)
+
+![pho_ass2_a020_09](https://user-images.githubusercontent.com/36836431/38169565-e62f504a-358a-11e8-82a7-97bd93761231.jpg)
+
+![pho_ass2_a020_10](https://user-images.githubusercontent.com/36836431/38169567-feb61f04-358a-11e8-9c5d-3f40f71c7edf.jpg)
+
+![pho_ass2_a020_11](https://user-images.githubusercontent.com/36836431/38169569-14ea6168-358b-11e8-9db2-9d398bacecee.jpg)
+
+![pho_ass2_a020_12](https://user-images.githubusercontent.com/36836431/38169570-2d0389a0-358b-11e8-950a-0561c7f53813.jpg)
+
+![pho_ass2_a020_13](https://user-images.githubusercontent.com/36836431/38169575-47e98f9e-358b-11e8-8adb-be1ee0b8fe49.jpg)
+
+![pho_ass2_a020_14](https://user-images.githubusercontent.com/36836431/38169578-5df1f808-358b-11e8-93cd-a4c582bbb2a5.jpg)
+
+![pho_ass2_a020_15](https://user-images.githubusercontent.com/36836431/38169580-764f82f8-358b-11e8-8c5f-72aea0aa21e1.jpg)
+
+
+
+
+
+
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://arushishukla-github-io.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//arushishukla-github-io.disqus.com/count.js" async></script>
